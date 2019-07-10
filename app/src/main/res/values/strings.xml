@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">H265_Support_Test</string>
+    <string name="main_button">检测硬件是否支持H265</string>
+    <string name="text_view_content">等待检测...</string>
+</resources>
