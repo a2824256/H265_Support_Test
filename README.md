@@ -1,0 +1,2 @@
+# H265_Support_Test
+测试嵌入式android系统是否支持H265硬编解码
